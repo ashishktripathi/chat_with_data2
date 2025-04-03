@@ -1,0 +1,6 @@
+openai
+langchain
+sqlalchemy
+pyodbc
+streamlit
+python-dotenv
